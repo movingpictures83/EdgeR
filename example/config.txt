@@ -1,0 +1,2 @@
+Prefix plugins/EdgeR/example/
+Plugin EdgeR inputfile abline.pdf.cnts.rds outputfile none 
